@@ -1,0 +1,21 @@
+code {
+  color: #03a9f4;
+}
+
+.button {
+  color: white;
+  background-color: #03a9f4;
+  border: none;
+  width: 120px;
+  height: 40px;
+  font-size: 20px;
+  cursor: pointer; 
+  transition: background-color 0.1s ease; 
+  border-radius: 2px;
+}
+
+.button:hover {
+  background-color: #ffffff;
+  border: 2px solid #03a9f4;
+  color: #03a9f4;
+}
